@@ -9,3 +9,10 @@ body{
 p{
 	font-size: 1.4rem;
 }
+
+.container {
+	width: 80%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
